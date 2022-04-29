@@ -1,0 +1,35 @@
+.container {
+  padding: 0 2rem;
+  /* border: #0070f3 solid 1px;s */
+  min-height: 60vh;
+}
+
+.title_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+.title {
+  color: #e33d33;
+  text-align: center;
+  font-size: 3em;
+  margin-right: 0.4em;
+}
+
+.title span {
+  color:var(--dark);
+}
+.about {
+  text-align: center;
+}
+
+.about h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+.about p {
+  margin-bottom: 1.5em;
+}
